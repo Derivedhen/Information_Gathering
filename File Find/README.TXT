@@ -1,9 +1,9 @@
 ----------------------------------------------------------------
-FILE FIND TOOL
-MODO DE USO: python3 metafind.py URL FILETYPE
-EXEMPLO DE USO: python3 file_find.py www.businesscorp.com.br pdf
-VERSION: 1.1
-CODE BY: DERIVED
+-> FILE FIND TOOL
+-> MODO DE USO: python3 file_find.py URL FILETYPE
+-> EXEMPLO DE USO: python3 file_find.py www.businesscorp.com.br pdf
+-> VERSION: 1.1
+-> CODE BY: DERIVED
 ----------------------------------------------------------------
 
 -> RESUMO
@@ -14,4 +14,5 @@ Além de ler os arquivos, interessante procurar por metadados utilizando ferrame
 
 
 Até a próxima
+
 :D
